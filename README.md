@@ -58,7 +58,9 @@ This repository is a public product-information and support hub for the live Edu
 - Topic-led exploration across visas, scholarships, countries, schools, and student life.
 - An AI assistance layer for quick answers and consultation handoff.
 - A signed-in member experience for posting, reacting, and participating more deeply.
-- An admin system for dashboard review, post moderation, users, topics, leads, and operational handling.
+- Public post-detail and comment-thread views that make real discussion visible instead of hiding it behind forms.
+- Member profile pages that turn anonymous traffic into recognizable contributors and community trust signals.
+- An admin system for dashboard review, post moderation, users, topics, AI knowledge base control, settings, leads, and operational handling.
 
 ## At A Glance
 
@@ -76,14 +78,25 @@ This repository is a public product-information and support hub for the live Edu
 <p align="center">
   <img src="assets/screenshots/06-homepage-preview.png" alt="EduHub homepage preview" width="32%">
   <img src="assets/screenshots/02-login.png" alt="EduHub login page" width="32%">
-  <img src="assets/screenshots/03-post-login.png" alt="EduHub signed-in feed" width="32%">
+  <img src="assets/screenshots/03-post-comments.png" alt="EduHub post detail and comments" width="32%">
+</p>
+
+<p align="center">
+  <img src="assets/screenshots/04-member-profile.png" alt="EduHub member profile" width="32%">
 </p>
 
 ### Admin System
 
 <p align="center">
-  <img src="assets/screenshots/04-admin-dashboard.png" alt="EduHub admin dashboard" width="32%">
-  <img src="assets/screenshots/05-admin-posts.png" alt="EduHub admin post moderation" width="32%">
+  <img src="assets/screenshots/05-admin-dashboard.png" alt="EduHub admin dashboard" width="32%">
+  <img src="assets/screenshots/06-admin-posts.png" alt="EduHub admin post moderation" width="32%">
+  <img src="assets/screenshots/07-admin-users.png" alt="EduHub admin user management" width="32%">
+</p>
+
+<p align="center">
+  <img src="assets/screenshots/08-admin-topics.png" alt="EduHub admin topic management" width="32%">
+  <img src="assets/screenshots/09-admin-knowledge.png" alt="EduHub admin AI knowledge base" width="32%">
+  <img src="assets/screenshots/10-admin-settings.png" alt="EduHub admin system settings" width="32%">
 </p>
 
 ## Public-Side Product Shape
@@ -92,7 +105,8 @@ EduHub gives users a softer entry point into study-abroad research:
 
 - Homepage And Feed Discovery.
 - Login And Member Participation.
-- Community Posts And Topic Browsing.
+- Community Posts, Topic Browsing, And Post-Level Discussions.
+- Member Profile Pages And Contributor Identity.
 - AI-Assisted Question Flow.
 - Organic Trust-Building Before Consultation.
 
@@ -102,7 +116,10 @@ EduHub also includes a real operator surface behind the public experience:
 
 - System Dashboard With Core Counts.
 - Post Review And Moderation Workflow.
+- User Oversight And Access Review.
 - Topic And Structure Management.
+- AI Knowledge Base Management.
+- System Settings And Operator Controls.
 - Member And Community Oversight.
 - Lead Intake And Follow-Up Handling.
 
@@ -141,11 +158,12 @@ That is why the product feels useful on both sides:
 
 - Public Homepage And Feed.
 - Login And Signed-In Community Flow.
-- Community Posting And Reading Experience.
+- Community Posting, Reading, And Comment-Thread Experience.
+- Member Profile Surface.
 - AI Assistance Layer.
 - Admin Dashboard.
 - Admin Post Management.
-- Additional Admin Surfaces For Operations.
+- Admin Users, Topics, Knowledge, And Settings Surfaces.
 
 ### Important caveats
 

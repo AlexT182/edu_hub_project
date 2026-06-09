@@ -58,7 +58,9 @@ Repository này là hub public để giới thiệu sản phẩm và hỗ trợ 
 - Cơ chế khám phá theo chủ đề cho visa, học bổng, quốc gia, trường học và đời sống du học.
 - Lớp AI hỗ trợ trả lời nhanh và gợi mở luồng tư vấn khi phù hợp.
 - Trải nghiệm thành viên sau đăng nhập để đăng bài, tương tác và tham gia sâu hơn.
-- Hệ thống quản trị cho dashboard, kiểm duyệt bài viết, thành viên, chủ đề, lead và vận hành.
+- Các màn chi tiết bài viết và luồng bình luận để thảo luận thật được nhìn thấy rõ thay vì bị ẩn sau form.
+- Trang hồ sơ thành viên để cộng đồng có gương mặt, ngữ cảnh và tín hiệu tin cậy rõ hơn.
+- Hệ thống quản trị cho dashboard, kiểm duyệt bài viết, thành viên, chủ đề, kho kiến thức AI, cài đặt, lead và vận hành.
 
 ## Nhìn Nhanh
 
@@ -74,16 +76,27 @@ Repository này là hub public để giới thiệu sản phẩm và hỗ trợ 
 ### Trải Nghiệm Người Dùng
 
 <p align="center">
-  <img src="assets/screenshots/06-homepage-preview.png" alt="EduHub homepage preview" width="32%">
+  <img src="assets/screenshots/06-homepage-preview.png" alt="EduHub xem nhanh trang chủ" width="32%">
   <img src="assets/screenshots/02-login.png" alt="EduHub đăng nhập" width="32%">
-  <img src="assets/screenshots/03-post-login.png" alt="EduHub feed sau khi đăng nhập" width="32%">
+  <img src="assets/screenshots/03-post-comments.png" alt="EduHub chi tiết bài viết và bình luận" width="32%">
+</p>
+
+<p align="center">
+  <img src="assets/screenshots/04-member-profile.png" alt="EduHub hồ sơ thành viên" width="32%">
 </p>
 
 ### Hệ Thống Quản Trị
 
 <p align="center">
-  <img src="assets/screenshots/04-admin-dashboard.png" alt="EduHub dashboard quản trị" width="32%">
-  <img src="assets/screenshots/05-admin-posts.png" alt="EduHub quản lý bài viết" width="32%">
+  <img src="assets/screenshots/05-admin-dashboard.png" alt="EduHub dashboard quản trị" width="32%">
+  <img src="assets/screenshots/06-admin-posts.png" alt="EduHub quản lý bài viết" width="32%">
+  <img src="assets/screenshots/07-admin-users.png" alt="EduHub quản lý thành viên" width="32%">
+</p>
+
+<p align="center">
+  <img src="assets/screenshots/08-admin-topics.png" alt="EduHub quản lý chủ đề" width="32%">
+  <img src="assets/screenshots/09-admin-knowledge.png" alt="EduHub kho kiến thức AI" width="32%">
+  <img src="assets/screenshots/10-admin-settings.png" alt="EduHub cài đặt hệ thống" width="32%">
 </p>
 
 ## Hình Dạng Sản Phẩm Phía Người Dùng
@@ -92,7 +105,8 @@ EduHub cho người dùng một điểm vào mềm hơn khi tìm hiểu du học
 
 - Trang Chủ Và Feed Khám Phá.
 - Đăng Nhập Và Luồng Thành Viên.
-- Bài Viết Cộng Đồng Và Duyệt Theo Chủ Đề.
+- Bài Viết Cộng Đồng, Duyệt Theo Chủ Đề Và Luồng Bình Luận.
+- Trang Hồ Sơ Thành Viên Và Danh Tính Người Đóng Góp.
 - Lớp AI Hỗ Trợ Hỏi Đáp.
 - Cơ Chế Xây Dựng Niềm Tin Trước Khi Đi Vào Tư Vấn.
 
@@ -102,7 +116,10 @@ EduHub cũng có một lớp vận hành thật sự ở phía sau:
 
 - Dashboard Hệ Thống Với Các Chỉ Số Cốt Lõi.
 - Quy Trình Kiểm Duyệt Và Quản Lý Bài Viết.
+- Kiểm Soát Thành Viên Và Quyền Truy Cập.
 - Quản Lý Chủ Đề Và Cấu Trúc Nội Dung.
+- Quản Lý Kho Kiến Thức AI.
+- Cài Đặt Hệ Thống Và Công Cụ Vận Hành.
 - Giám Sát Thành Viên Và Hoạt Động Cộng Đồng.
 - Tiếp Nhận Lead Và Theo Dõi Xử Lý.
 
@@ -141,11 +158,12 @@ Nó tồn tại để giải bài toán thực tế hơn:
 
 - Trang Chủ Và Feed Public.
 - Luồng Đăng Nhập Và Cộng Đồng Sau Đăng Nhập.
-- Trải Nghiệm Đăng Bài Và Đọc Bài.
+- Trải Nghiệm Đăng Bài, Đọc Bài Và Bình Luận.
+- Trang Hồ Sơ Thành Viên.
 - Lớp AI Hỗ Trợ.
 - Dashboard Quản Trị.
 - Quản Lý Bài Viết Phía Admin.
-- Các Bề Mặt Admin Khác Cho Vận Hành.
+- Các Bề Mặt Admin Cho Thành Viên, Chủ Đề, Kho Kiến Thức Và Cài Đặt.
 
 ### Lưu ý quan trọng
 

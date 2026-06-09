@@ -6,9 +6,14 @@ Screenshots in this folder were captured from the live EduHub deployment at:
 
 Current set includes:
 
-- public homepage
+- public homepage hero
 - public homepage preview
 - login page
-- signed-in community state
+- post-detail page with comments
+- member profile page
 - admin dashboard view
 - admin post-management view
+- admin user-management view
+- admin topic-management view
+- admin AI knowledge-base view
+- admin settings view
