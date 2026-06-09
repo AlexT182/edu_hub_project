@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <strong>Nền tảng cộng đồng du học kết hợp AI hỗ trợ và lớp vận hành quản trị phía sau.</strong>
+  <strong>Nền tảng cộng đồng du học kết hợp AI hỗ trợ và hệ thống quản trị vận hành phía sau.</strong>
 </p>
 
 <p align="center">
@@ -14,9 +14,9 @@
 </p>
 
 <p align="center">
-  <img alt="Platform" src="https://img.shields.io/badge/Nền%20tảng-Hosted%20Web-0F766E?style=flat-square">
-  <img alt="Model" src="https://img.shields.io/badge/Mô%20hình-Cộng%20đồng%20%2B%20AI-1D4ED8?style=flat-square">
-  <img alt="Audience" src="https://img.shields.io/badge/Đối%20tượng-Học%20sinh%20%26%20Phụ%20huynh-F59E0B?style=flat-square">
+  <img alt="Nền tảng" src="https://img.shields.io/badge/N%E1%BB%81n%20t%E1%BA%A3ng-Hosted%20Web-0F766E?style=flat-square">
+  <img alt="Mô hình" src="https://img.shields.io/badge/M%C3%B4%20h%C3%ACnh-C%E1%BB%99ng%20%C4%91%E1%BB%93ng%20%2B%20AI-1D4ED8?style=flat-square">
+  <img alt="Đối tượng" src="https://img.shields.io/badge/%C4%90%E1%BB%91i%20t%C6%B0%E1%BB%A3ng-H%E1%BB%8Dc%20sinh%20%26%20Ph%E1%BB%A5%20huynh-F59E0B?style=flat-square">
   <img alt="License" src="https://img.shields.io/badge/License-Closed--source-7C3AED?style=flat-square">
 </p>
 
@@ -28,151 +28,165 @@
 <p align="center">
   <a href="https://eduhub.alphabot.vn/"><strong>Live Site</strong></a>
   |
-  <a href="SUPPORT.md"><strong>Hỗ trợ</strong></a>
+  <a href="https://eduhub.alphabot.vn/admin"><strong>Trang Quản Trị</strong></a>
   |
-  <a href="docs/FAQ.md"><strong>FAQ</strong></a>
+  <a href="SUPPORT.md"><strong>Hỗ Trợ</strong></a>
+  |
+  <a href="docs/FAQ.md"><strong>Câu Hỏi Thường Gặp</strong></a>
 </p>
 
 ## Cú Chuyển Lớn
 
-Phần lớn marketing du học vẫn bắt đầu quá sớm bằng bán hàng:
+Nhiều website du học vẫn đẩy người dùng vào bán hàng quá sớm:
 
-- Ép người dùng vào tư vấn,
-- Xin thông tin liên hệ quá sớm,
-- Đưa thông tin rời rạc và thiếu ngữ cảnh,
-- Làm mất niềm tin trước khi cuộc trò chuyện thực sự bắt đầu.
+- Xin thông tin liên hệ trước khi tạo đủ niềm tin.
+- Đưa thông tin rời rạc và thiếu ngữ cảnh.
+- Tạo áp lực trước khi người dùng thực sự sẵn sàng.
+- Làm giảm độ tin cậy trước khi cuộc tư vấn thật bắt đầu.
 
-EduHub đổi luồng đó.
+EduHub đổi hành trình đó.
 
-Người dùng có thể khám phá feed cộng đồng, đọc chủ đề thật, tìm kiếm thảo luận cũ, hỏi AI hỗ trợ,
-và chỉ đi vào luồng lead hoặc tư vấn khi họ thực sự sẵn sàng.
+Người dùng có thể duyệt feed cộng đồng, đọc câu hỏi thật, tìm thảo luận cũ và dùng lớp AI hỗ trợ để định hướng nhanh. Ở phía sau, cùng một sản phẩm kết nối luồng khám phá công khai đó với moderation, kiểm soát nội dung và xử lý lead của đội vận hành.
 
-Điểm "wow" không chỉ là có diễn đàn.  
-Điểm "wow" là cộng đồng, AI và lớp vận hành admin được nối với nhau trong cùng một sản phẩm.
-
-> Từ những câu hỏi du học rời rạc sang một hành trình ra quyết định có cộng đồng đứng sau.
-
-## Vì Sao Trải Nghiệm Này Khác
-
-1. **Khám phá** nội dung hữu ích mà không bị tạo áp lực bán hàng ngay.
-2. **Hỏi đáp** qua cộng đồng và lớp AI hỗ trợ.
-3. **Chuyển đổi** nhu cầu nghiêm túc thành một workflow lead rõ ràng phía admin.
+> Từ những câu hỏi du học rời rạc sang một hành trình cộng đồng và quản trị được kết nối trong cùng một hệ thống.
 
 Repository này là hub public để giới thiệu sản phẩm và hỗ trợ cho EduHub. Nó không chứa source code của ứng dụng.
 
 ## Bạn Nhận Được Gì
 
-- `💬` Trải nghiệm cộng đồng để hỏi và đọc về visa, học bổng, quốc gia, trường và đời sống du học
-- `🤖` Lớp AI hỗ trợ trả lời nhanh và gợi mở luồng tư vấn khi phù hợp
-- `🧭` Cơ chế khám phá theo topic và nội dung thảo luận thực tế
-- `🛠️` Lớp quản trị cho moderation, users, posts, leads, settings và chat review
-- `📈` Một mô hình sản phẩm kết nối trust từ phía người dùng với workflow vận hành phía sau
+- Feed cộng đồng công khai cho câu hỏi, câu trả lời và trải nghiệm du học thật.
+- Cơ chế khám phá theo chủ đề cho visa, học bổng, quốc gia, trường học và đời sống du học.
+- Lớp AI hỗ trợ trả lời nhanh và gợi mở luồng tư vấn khi phù hợp.
+- Trải nghiệm thành viên sau đăng nhập để đăng bài, tương tác và tham gia sâu hơn.
+- Hệ thống quản trị cho dashboard, kiểm duyệt bài viết, thành viên, chủ đề, lead và vận hành.
 
 ## Nhìn Nhanh
 
-- `🌐` Nền tảng web hosted
-- `🎓` Dành cho học sinh, phụ huynh và đội ngũ giáo dục
-- `🧩` Cộng đồng + chatbot + admin workflow
-- `🔐` Có lớp admin được kiểm soát truy cập
-- `📬` Có flow thu lead và follow-up
-- `📱` Có trải nghiệm public browse, login và tham gia cộng đồng
+- Nền Tảng Web Hosted.
+- Mô Hình Cộng Đồng Kết Hợp AI.
+- Dành Cho Học Sinh, Phụ Huynh Và Đội Ngũ Giáo Dục.
+- Luồng Public Khám Phá Kết Hợp Luồng Thành Viên Sau Đăng Nhập.
+- Lớp Quản Trị Cho Moderation Và Vận Hành.
+- Sản Phẩm Closed-Source Đang Được Triển Khai Live.
 
 ## Xem Nhanh Giao Diện
 
+### Trải Nghiệm Người Dùng
+
 <p align="center">
+  <img src="assets/screenshots/06-homepage-preview.png" alt="EduHub homepage preview" width="32%">
+  <img src="assets/screenshots/02-login.png" alt="EduHub đăng nhập" width="32%">
   <img src="assets/screenshots/03-post-login.png" alt="EduHub feed sau khi đăng nhập" width="32%">
+</p>
+
+### Hệ Thống Quản Trị
+
+<p align="center">
   <img src="assets/screenshots/04-admin-dashboard.png" alt="EduHub dashboard quản trị" width="32%">
   <img src="assets/screenshots/05-admin-posts.png" alt="EduHub quản lý bài viết" width="32%">
 </p>
 
+## Hình Dạng Sản Phẩm Phía Người Dùng
+
+EduHub cho người dùng một điểm vào mềm hơn khi tìm hiểu du học:
+
+- Trang Chủ Và Feed Khám Phá.
+- Đăng Nhập Và Luồng Thành Viên.
+- Bài Viết Cộng Đồng Và Duyệt Theo Chủ Đề.
+- Lớp AI Hỗ Trợ Hỏi Đáp.
+- Cơ Chế Xây Dựng Niềm Tin Trước Khi Đi Vào Tư Vấn.
+
+## Hình Dạng Sản Phẩm Phía Quản Trị
+
+EduHub cũng có một lớp vận hành thật sự ở phía sau:
+
+- Dashboard Hệ Thống Với Các Chỉ Số Cốt Lõi.
+- Quy Trình Kiểm Duyệt Và Quản Lý Bài Viết.
+- Quản Lý Chủ Đề Và Cấu Trúc Nội Dung.
+- Giám Sát Thành Viên Và Hoạt Động Cộng Đồng.
+- Tiếp Nhận Lead Và Theo Dõi Xử Lý.
+
+Điều này quan trọng vì sản phẩm không chỉ là lớp giao diện public. Nó cũng là bề mặt làm việc của đội đứng sau hệ thống.
+
 ## Dành Cho Ai
 
-- `🎓` Học sinh đang tìm hiểu quốc gia, trường, học bổng và visa
-- `👨‍👩‍👧` Phụ huynh cần tín hiệu rõ ràng hơn giữa một thị trường nhiều thông tin nhiễu
-- `🧑‍💼` Đội ngũ giáo dục cần lớp lead và moderation rõ ràng hơn
-- `🗂️` Người vận hành muốn nối hành vi public với workflow xử lý phía sau
+- Học Sinh Đang Tìm Hiểu Quốc Gia, Trường, Học Bổng Và Visa.
+- Phụ Huynh Cần Tín Hiệu Rõ Ràng Hơn Giữa Một Thị Trường Nhiều Nhiễu.
+- Đội Ngũ Giáo Dục Muốn Có Cộng Đồng Và Workflow Lead Rõ Ràng Hơn.
+- Người Vận Hành Cần Nối Hoạt Động Public Với Hệ Thống Quản Trị Phía Sau.
 
-## EduHub Làm Được Gì
-
-- Cung cấp feed cộng đồng cho thảo luận du học
-- Hỗ trợ login, tham gia và tương tác nội dung
-- Thêm lớp chatbot AI cho hỏi đáp và handoff
-- Cung cấp lớp admin cho users, posts, topics, leads, settings và chat history
-- Nối discovery phía public với workflow phía admin
-
-## Vì Sao Sản Phẩm Này Tồn Tại
+## Vì Sao Nó Tồn Tại
 
 EduHub không chỉ là blog và cũng không chỉ là chatbot.
 
 Nó tồn tại để giải bài toán thực tế hơn:
 
-> "Người dùng cần một cách tiếp cận du học ít áp lực hơn, đáng tin hơn, trước khi sẵn sàng bước vào tư vấn trực tiếp."
+> "Người dùng cần một cách tiếp cận du học ít áp lực hơn và đáng tin hơn trước khi sẵn sàng bước vào tư vấn trực tiếp."
 
-Điều đó khiến sản phẩm có ích cho cả người dùng lẫn đội ngũ vận hành phía sau.
+Đó là lý do sản phẩm có ích cho cả hai phía:
+
+- hữu ích cho người dùng,
+- vận hành được cho đội ngũ phía sau.
 
 ## Vì Sao Người Dùng Nhớ Nó
 
-- `✨` Vì trải nghiệm mang tính hỗ trợ hơn là thúc ép
-- `🧠` Vì nó kết hợp trust của cộng đồng với tốc độ của AI
-- `🏗️` Vì nó nối thảo luận public với lớp vận hành admin
-- `💡` Vì nó tạo cầu nối tốt hơn từ tò mò sang tư vấn thật sự
+- Nó Mang Cảm Giác Hỗ Trợ Hơn Là Thúc Ép.
+- Nó Kết Hợp Niềm Tin Của Cộng Đồng Với Tốc Độ Của AI.
+- Nó Nối Khám Phá Public Với Vận Hành Quản Trị.
+- Nó Làm Cầu Nối Từ Tò Mò Sang Tư Vấn Có Cấu Trúc Hơn.
 
 ## Phạm Vi Sản Phẩm
 
-### Đã có sẵn
+### Hiện đã có
 
-- Feed cộng đồng public
-- Cơ chế thảo luận theo topic và tag
-- Login và luồng tham gia của thành viên
-- Chatbot AI cho hỏi đáp du học
-- Dashboard admin
-- Admin users, posts, topics, leads, settings và chat-history
-- Lead capture và workflow follow-up
+- Trang Chủ Và Feed Public.
+- Luồng Đăng Nhập Và Cộng Đồng Sau Đăng Nhập.
+- Trải Nghiệm Đăng Bài Và Đọc Bài.
+- Lớp AI Hỗ Trợ.
+- Dashboard Quản Trị.
+- Quản Lý Bài Viết Phía Admin.
+- Các Bề Mặt Admin Khác Cho Vận Hành.
 
 ### Lưu ý quan trọng
 
-- EduHub không phải diễn đàn open-source
-- Repository này không phải repo source hay repo deploy
-- Một số năng lực phía admin phụ thuộc vào backend services đã được cấu hình
-- AI responses vẫn cần scope discipline và chuẩn review vận hành
+- EduHub không phải sản phẩm diễn đàn open-source.
+- Repository này không phải repo source hay repo deploy.
+- Một số khả năng phía admin phụ thuộc vào backend services đã được cấu hình.
+- AI-assisted responses vẫn cần quy trình review của đội vận hành.
 
 ## Mô Hình Riêng Tư
 
-EduHub là ứng dụng web hosted, không phải sản phẩm local-first.
+EduHub là sản phẩm web hosted, không phải ứng dụng local-first.
 
-Luồng dữ liệu ở mức high-level:
+Ở mức tổng quan:
 
-- Khách public có thể browse nội dung cộng đồng
-- Thành viên đăng ký có thể tham gia sâu hơn tùy flow và quyền
-- Chatbot hoặc consultation flow có thể thu thông tin liên hệ khi người dùng chủ động cung cấp
-- Lớp admin có thể xử lý lead, chat summary và dữ liệu moderation
+- Khách public có thể duyệt nội dung cộng đồng.
+- Người dùng đăng nhập có thể tham gia sâu hơn.
+- Luồng AI hoặc tư vấn có thể thu thông tin liên hệ khi người dùng chủ động cung cấp.
+- Lớp quản trị có thể xử lý dữ liệu moderation, bài viết và thông tin lead.
 
-Xem [docs/PRIVACY.md](docs/PRIVACY.md) để biết bản tóm tắt public.
-
-## Các Bề Mặt Sản Phẩm
-
-- Public community: homepage, posts, search, profile, login/register
-- AI layer: chatbot-assisted Q&A và guided handoff
-- Admin layer: dashboard, users, posts, topics, leads, settings và chat review
+Xem [docs/PRIVACY.md](docs/PRIVACY.md) để biết bản tóm tắt quyền riêng tư public.
 
 ## Availability
 
-- Live site: https://eduhub.alphabot.vn/
-- Product type: hosted web community + admin system
-- Current state: public-facing community với operator workflow tích hợp
+- Live Site: https://eduhub.alphabot.vn/
+- Trang Quản Trị: https://eduhub.alphabot.vn/admin
+- Loại Sản Phẩm: hệ thống web cộng đồng kết hợp quản trị
+- Trạng Thái Hiện Tại: community public đi kèm workflow vận hành tích hợp
 
 ## Bắt Đầu Trong 3 Bước
 
-1. **Khám phá** site live để xem topic, cộng đồng và cách nội dung vận hành.
-2. **Hiểu sản phẩm** qua repo public, screenshot và docs.
-3. **Sử dụng** live site và support path khi cần hỏi thêm về sản phẩm hoặc vận hành.
+1. **Duyệt** live site để hiểu trải nghiệm public.
+2. **Xem** screenshot trong repo này để hiểu cả phía người dùng và phía quản trị.
+3. **Dùng** support path khi cần hỏi thêm về sản phẩm hoặc vận hành.
 
 ## Bắt Đầu Từ Đây
 
-- `🌐` Live site: https://eduhub.alphabot.vn/
-- `🛟` Hướng dẫn hỗ trợ: [SUPPORT.md](SUPPORT.md)
-- `❓` FAQ: [docs/FAQ.md](docs/FAQ.md)
-- `🗺️` Roadmap: [docs/ROADMAP.md](docs/ROADMAP.md)
+- `Live Site`: https://eduhub.alphabot.vn/
+- `Trang Quản Trị`: https://eduhub.alphabot.vn/admin
+- `Hỗ Trợ`: [SUPPORT.md](SUPPORT.md)
+- `Câu Hỏi Thường Gặp`: [docs/FAQ.md](docs/FAQ.md)
+- `Lộ Trình`: [docs/ROADMAP.md](docs/ROADMAP.md)
 
 ## Hỗ Trợ
 
@@ -181,14 +195,14 @@ Xem [docs/PRIVACY.md](docs/PRIVACY.md) để biết bản tóm tắt public.
 ## Khám Phá EduHub
 
 <p align="center">
-  <strong>Muốn xem cách cộng đồng, AI hỗ trợ và workflow admin kết hợp trong cùng một sản phẩm?</strong><br>
-  Hãy vào site live trước, rồi dùng support path khi cần trao đổi sâu hơn về sản phẩm hoặc vận hành.
+  <strong>Muốn xem cách cộng đồng công khai và hệ thống quản trị phía sau hoạt động cùng nhau trong một sản phẩm du học?</strong><br>
+  Hãy bắt đầu từ live site, sau đó xem visual tour và các tài liệu public trong repo này.
 </p>
 
 <p align="center">
   <a href="https://eduhub.alphabot.vn/"><strong>Mở Live Site</strong></a>
   |
-  <a href="SUPPORT.md"><strong>Liên hệ hỗ trợ</strong></a>
+  <a href="https://eduhub.alphabot.vn/admin"><strong>Mở Trang Quản Trị</strong></a>
 </p>
 
 ## Lưu Ý Closed-Source
@@ -197,28 +211,26 @@ EduHub là sản phẩm web closed-source của Quoc Anh / AlphaBot.
 
 Repository này tồn tại để:
 
-- giải thích sản phẩm
-- cho thấy năng lực hiện tại
-- công bố screenshot và tài liệu public
-- cung cấp đầu mối hỗ trợ và security contact
+- Giải Thích Sản Phẩm.
+- Cho Thấy Hình Dạng Sản Phẩm Hiện Tại.
+- Công Bố Screenshot Và Tài Liệu Public.
+- Cung Cấp Đầu Mối Hỗ Trợ Và Bảo Mật.
 
 Nó không bao gồm:
 
-- source code ứng dụng
-- private backend hoặc deployment code
-- admin credentials
-- secret infrastructure hoặc keys
-- user/community data
+- Source Code Ứng Dụng.
+- Private Backend Hoặc Deployment Code.
+- Admin Credentials.
+- Secret Infrastructure Hoặc Keys.
+- Dữ Liệu Người Dùng Hoặc Cộng Đồng.
 
 ## Phạm Vi Repository
 
 Repo này chỉ nên chứa:
 
-- product overview
-- FAQ
-- privacy summary
-- roadmap
-- support/security contacts
-- screenshots
-
-Nếu sau này có release flow hoặc public documentation site riêng, phần đó nên được document rõ thay vì để người xem tự suy diễn từ repo này.
+- Tổng Quan Sản Phẩm.
+- Screenshot.
+- FAQ.
+- Tóm Tắt Quyền Riêng Tư.
+- Lộ Trình.
+- Đầu Mối Hỗ Trợ Và Bảo Mật.

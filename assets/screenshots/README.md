@@ -7,6 +7,7 @@ Screenshots in this folder were captured from the live EduHub deployment at:
 Current set includes:
 
 - public homepage
+- public homepage preview
 - login page
 - signed-in community state
 - admin dashboard view

@@ -5,12 +5,12 @@
 </p>
 
 <p align="center">
-  <strong>A community-first study-abroad platform with AI help and operator-side workflow behind it.</strong>
+  <strong>A study-abroad community platform that combines trust-building content, AI assistance, and an operator-side admin system.</strong>
 </p>
 
 <p align="center">
-  EduHub gives students and parents a softer, higher-trust way to explore study-abroad questions
-  before they ever enter a direct consulting conversation.
+  EduHub gives students and parents a calmer, more credible way to explore study-abroad questions
+  before they ever move into a direct consulting conversation.
 </p>
 
 <p align="center">
@@ -28,6 +28,8 @@
 <p align="center">
   <a href="https://eduhub.alphabot.vn/"><strong>Live Site</strong></a>
   |
+  <a href="https://eduhub.alphabot.vn/admin"><strong>Admin Surface</strong></a>
+  |
   <a href="SUPPORT.md"><strong>Support</strong></a>
   |
   <a href="docs/FAQ.md"><strong>FAQ</strong></a>
@@ -35,144 +37,156 @@
 
 ## The Big Shift
 
-Most study-abroad marketing still begins too early with selling:
+Many study-abroad websites still push users into sales too early:
 
-- Push a consultation,
-- Ask for contact details,
-- Overwhelm users with fragmented information,
-- Lose trust before the conversation even starts.
+- They ask for contact details before trust is built.
+- They present scattered information without context.
+- They create pressure before the user is ready.
+- They lose credibility before a real advisory conversation begins.
 
-EduHub changes that flow.
+EduHub changes that journey.
 
-Users can explore a community feed, browse real topics, search past discussions, ask the AI assistant,
-and only move into a lead or consulting path when they are actually ready.
+Users can browse community posts, search existing questions, read real experiences, and use the AI layer for quick guidance. On the operator side, the same product connects that public discovery flow to moderation, content control, and lead handling.
 
-The "wow" is not just that there is a forum.  
-The "wow" is that discovery, trust, AI help, and operator workflow are connected in one product.
-
-> From scattered study-abroad questions to a community-powered decision journey.
-
-## Why It Feels Different
-
-1. **Discover** useful discussions without immediate sales pressure.
-2. **Ask** questions through community content and AI-assisted guidance.
-3. **Convert** serious intent into a cleaner admin-side lead workflow.
+> From fragmented study-abroad questions to a guided community and admin workflow in one system.
 
 This repository is a public product-information and support hub for the live EduHub product. It does not contain the application source code.
 
 ## What You Get
 
-- `💬` A community-style experience for study-abroad questions, answers, and shared experiences
-- `🤖` An AI assistant layer for fast answers and guided consultation handoff
-- `🧭` Topic-led discovery across visas, scholarships, countries, and student life
-- `🛠️` Admin-side tools for moderation, users, posts, leads, settings, and chat review
-- `📈` A product shape that blends public trust-building with operator-side execution
+- A public community feed for study-abroad questions, answers, and shared experiences.
+- Topic-led exploration across visas, scholarships, countries, schools, and student life.
+- An AI assistance layer for quick answers and consultation handoff.
+- A signed-in member experience for posting, reacting, and participating more deeply.
+- An admin system for dashboard review, post moderation, users, topics, leads, and operational handling.
 
 ## At A Glance
 
-- `🌐` Hosted web platform
-- `🎓` Built for students, parents, and education operators
-- `🧩` Community + chatbot + admin workflow
-- `🔐` Access-controlled admin surface
-- `📬` Contact capture and lead follow-up flow
-- `📱` Public-facing browsing, login, and participation experience
+- Hosted Web Platform.
+- Community And AI Product Model.
+- Built For Students, Parents, And Education Operators.
+- Public Discovery Flow With Logged-In Participation.
+- Admin Surface For Moderation And Operations.
+- Closed-Source Commercial Deployment.
 
 ## Visual Tour
 
+### Public Experience
+
 <p align="center">
-  <img src="assets/screenshots/03-post-login.png" alt="EduHub signed-in community feed" width="32%">
+  <img src="assets/screenshots/06-homepage-preview.png" alt="EduHub homepage preview" width="32%">
+  <img src="assets/screenshots/02-login.png" alt="EduHub login page" width="32%">
+  <img src="assets/screenshots/03-post-login.png" alt="EduHub signed-in feed" width="32%">
+</p>
+
+### Admin System
+
+<p align="center">
   <img src="assets/screenshots/04-admin-dashboard.png" alt="EduHub admin dashboard" width="32%">
   <img src="assets/screenshots/05-admin-posts.png" alt="EduHub admin post moderation" width="32%">
 </p>
 
+## Public-Side Product Shape
+
+EduHub gives users a softer entry point into study-abroad research:
+
+- Homepage And Feed Discovery.
+- Login And Member Participation.
+- Community Posts And Topic Browsing.
+- AI-Assisted Question Flow.
+- Organic Trust-Building Before Consultation.
+
+## Admin-Side Product Shape
+
+EduHub also includes a real operator surface behind the public experience:
+
+- System Dashboard With Core Counts.
+- Post Review And Moderation Workflow.
+- Topic And Structure Management.
+- Member And Community Oversight.
+- Lead Intake And Follow-Up Handling.
+
+That matters because the product is not only a front-facing content layer. It is also an operating surface for the team behind it.
+
 ## Who It Is For
 
-- `🎓` Students researching countries, schools, scholarships, and visa paths
-- `👨‍👩‍👧` Parents looking for clearer signals and less chaotic information
-- `🧑‍💼` Education teams that need a more structured lead and moderation workflow
-- `🗂️` Operators who want public community activity connected to admin-side handling
-
-## What EduHub Does
-
-- Publishes a public community feed for study-abroad discussion
-- Supports login, member participation, and profile-style interaction
-- Adds an AI chatbot for quick Q&A and lead capture opportunities
-- Provides an admin side for users, posts, topics, settings, leads, and chat history
-- Bridges public discovery with private operator workflow
+- Students researching countries, schools, scholarships, and visa routes.
+- Parents who need clearer signals and less chaotic information.
+- Education teams that want a more structured community and lead workflow.
+- Operators who need public engagement connected to admin execution.
 
 ## Why It Exists
 
 EduHub is not just a blog and not just a chatbot.
 
-It exists for a more practical problem:
+It exists to solve a more practical problem:
 
-> "People need a lower-pressure, more trustworthy way to explore study-abroad questions before they are ready for direct consulting."
+> "People need a lower-pressure and more trustworthy way to explore study-abroad questions before they are ready for direct consulting."
 
-That makes it useful both for users and for the operator side behind the product.
+That is why the product feels useful on both sides:
+
+- helpful for the user,
+- operational for the team behind it.
 
 ## Why People Remember It
 
-- `✨` It feels more helpful than aggressive
-- `🧠` It combines community trust with AI speed
-- `🏗️` It connects public discussion to internal admin execution
-- `💡` It creates a stronger bridge from curiosity to qualified consultation
+- It Feels More Helpful Than Aggressive.
+- It Combines Community Trust With AI Speed.
+- It Connects Public Discovery To Admin Execution.
+- It Makes The Journey From Curiosity To Consultation More Structured.
 
 ## Product Boundaries
 
-### Shipped now
+### Included now
 
-- Public community feed
-- Topic and tag-based discussion structure
-- Login and member participation flow
-- AI chatbot for study-abroad Q&A
-- Admin dashboard
-- Admin users, posts, topics, leads, settings, and chat-history surfaces
-- Lead capture and follow-up workflow
+- Public Homepage And Feed.
+- Login And Signed-In Community Flow.
+- Community Posting And Reading Experience.
+- AI Assistance Layer.
+- Admin Dashboard.
+- Admin Post Management.
+- Additional Admin Surfaces For Operations.
 
 ### Important caveats
 
-- EduHub is not an open-source forum product
-- This repository is not the deployment or source repository
-- Some operator/admin capabilities depend on configured backend services
-- AI responses still need scope discipline and operator-side review standards
+- EduHub is not an open-source forum product.
+- This repository is not the source or deployment repository.
+- Some admin capabilities depend on configured backend services.
+- AI-assisted responses still require operator review discipline.
 
 ## Privacy Model
 
-EduHub is a hosted web application, not a local-first desktop product.
+EduHub is a hosted web product, not a local-first desktop app.
 
-High-level data behavior:
+At a high level:
 
-- Public visitors can browse community content
-- Registered users can participate more deeply depending on the active flow and permissions
-- Consultation or chatbot interactions may collect contact details when the user chooses to provide them
-- Admin-side tools may process leads, chat summaries, and moderation data
+- Public visitors can browse community content.
+- Logged-in users can participate more deeply.
+- AI or consultation flows may collect contact details when the user chooses to provide them.
+- Admin-side tools may process moderation data, posts, and lead-related information.
 
 See [docs/PRIVACY.md](docs/PRIVACY.md) for the short public privacy summary.
 
-## Product Surfaces
-
-- Public community: homepage, posts, search, profile, login/register
-- AI layer: chatbot-assisted Q&A and guided handoff
-- Admin layer: dashboard, users, posts, topics, leads, settings, and chat review
-
 ## Availability
 
-- Public site: https://eduhub.alphabot.vn/
-- Product type: hosted web community + admin system
-- Current state: public-facing community with integrated operator workflow
+- Public Site: https://eduhub.alphabot.vn/
+- Admin Surface: https://eduhub.alphabot.vn/admin
+- Product Type: hosted web community and admin system
+- Current State: public-facing community with integrated operator workflow
 
 ## 3-Step Getting Started
 
-1. **Browse** the live community to explore active topics and discussion style.
-2. **Understand** the product through this public repo, screenshots, and docs.
-3. **Use** the live site and support path for real product questions or operator contact.
+1. **Browse** the live site to understand the public experience.
+2. **Review** the screenshots here to see both user-side and admin-side surfaces.
+3. **Use** the support path for product questions or operator contact.
 
 ## Start Here
 
-- `🌐` Live site: https://eduhub.alphabot.vn/
-- `🛟` Support guide: [SUPPORT.md](SUPPORT.md)
-- `❓` FAQ: [docs/FAQ.md](docs/FAQ.md)
-- `🗺️` Roadmap: [docs/ROADMAP.md](docs/ROADMAP.md)
+- `Live Site`: https://eduhub.alphabot.vn/
+- `Admin Surface`: https://eduhub.alphabot.vn/admin
+- `Support`: [SUPPORT.md](SUPPORT.md)
+- `FAQ`: [docs/FAQ.md](docs/FAQ.md)
+- `Roadmap`: [docs/ROADMAP.md](docs/ROADMAP.md)
 
 ## Support
 
@@ -181,14 +195,14 @@ See [docs/PRIVACY.md](docs/PRIVACY.md) for the short public privacy summary.
 ## Explore EduHub
 
 <p align="center">
-  <strong>Want to see how community discussion, AI help, and admin workflow come together in one product?</strong><br>
-  Explore the live EduHub site, then use the support path for product or operator questions.
+  <strong>Want to see how public community discovery and admin-side operations work together in one study-abroad product?</strong><br>
+  Start with the live site, then review the visual tour and public docs in this repository.
 </p>
 
 <p align="center">
   <a href="https://eduhub.alphabot.vn/"><strong>Open Live Site</strong></a>
   |
-  <a href="SUPPORT.md"><strong>Contact Support</strong></a>
+  <a href="https://eduhub.alphabot.vn/admin"><strong>Open Admin Surface</strong></a>
 </p>
 
 ## Closed-Source Notice
@@ -197,28 +211,26 @@ EduHub is a closed-source web product by Quoc Anh / AlphaBot.
 
 This repository exists to:
 
-- explain the product
-- show current capabilities
-- publish screenshots and public docs
-- provide support and security contact paths
+- Explain The Product.
+- Show Current Product Shape.
+- Publish Screenshots And Public Docs.
+- Provide Support And Security Contact Paths.
 
 It does not include:
 
-- application source code
-- private backend or deployment code
-- admin credentials
-- secret infrastructure or keys
-- user/community data
+- Application Source Code.
+- Private Backend Or Deployment Code.
+- Admin Credentials.
+- Secret Infrastructure Or Keys.
+- User Or Community Data.
 
 ## Repository Scope
 
 This repo should stay limited to public-facing material:
 
-- product overview
-- FAQ
-- privacy summary
-- roadmap
-- support/security contacts
-- screenshots
-
-If a future release flow or public documentation site is created, that should be documented explicitly rather than inferred from this repository.
+- Product Overview.
+- Screenshots.
+- FAQ.
+- Privacy Summary.
+- Roadmap.
+- Support And Security Contacts.
