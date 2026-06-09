@@ -80,9 +80,9 @@ This repository is a public product-information and support hub for the live Edu
 ## Visual Tour
 
 <p align="center">
-  <img src="assets/screenshots/01-homepage.png" alt="EduHub public homepage" width="32%">
-  <img src="assets/screenshots/02-login.png" alt="EduHub login page" width="32%">
-  <img src="assets/screenshots/03-post-login.png" alt="EduHub signed-in feed" width="32%">
+  <img src="assets/screenshots/03-post-login.png" alt="EduHub signed-in community feed" width="32%">
+  <img src="assets/screenshots/04-admin-dashboard.png" alt="EduHub admin dashboard" width="32%">
+  <img src="assets/screenshots/05-admin-posts.png" alt="EduHub admin post moderation" width="32%">
 </p>
 
 ## Who It Is For

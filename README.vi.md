@@ -80,9 +80,9 @@ Repository này là hub public để giới thiệu sản phẩm và hỗ trợ 
 ## Xem Nhanh Giao Diện
 
 <p align="center">
-  <img src="assets/screenshots/01-homepage.png" alt="EduHub homepage" width="32%">
-  <img src="assets/screenshots/02-login.png" alt="EduHub login page" width="32%">
-  <img src="assets/screenshots/03-post-login.png" alt="EduHub signed-in feed" width="32%">
+  <img src="assets/screenshots/03-post-login.png" alt="EduHub feed sau khi đăng nhập" width="32%">
+  <img src="assets/screenshots/04-admin-dashboard.png" alt="EduHub dashboard quản trị" width="32%">
+  <img src="assets/screenshots/05-admin-posts.png" alt="EduHub quản lý bài viết" width="32%">
 </p>
 
 ## Dành Cho Ai

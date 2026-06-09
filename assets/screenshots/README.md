@@ -10,8 +10,4 @@ Current set includes:
 - login page
 - signed-in community state
 - admin dashboard view
-- admin leads view
-
-Note:
-
-- Some admin screenshots may still show first-run onboarding overlays from the live product.
+- admin post-management view
